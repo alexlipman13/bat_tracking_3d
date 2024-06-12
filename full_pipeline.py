@@ -1,3 +1,5 @@
+'''Full pipeline from bat detection to animation rendering. Add a video file and try it out!'''
+
 import cv2
 import torch
 from PIL import Image
